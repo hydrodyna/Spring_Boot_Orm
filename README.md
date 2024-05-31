@@ -1,2 +1,3 @@
 # Spring_Boot_Orm
-integration of spring boot with spring data jpa using rest
+Integration of spring boot with spring data jpa using rest api.
+flow--rest api client-->controller class---->service class--->repository interface--->spring data jpa(uses jpa)--->hb-->jdbc---->db
